@@ -4,7 +4,7 @@ subnet1 = "subnet-6fe3f741"
 subnet2 = "subnet-b90bd2f4"
 subnet3 = "subnet-56d5df0a"
 region = "us-east-1"
-cluster_name = "cluster"
+cluster_name = "dev"
 environment = "dev"
 
 
@@ -24,8 +24,8 @@ cluster_version = "1.14"
 
 # jenkins will provide 
 ## environment = "dev"
-## region = "us-west-2"
-## cluster_name = "dev-cluster"
+## region = "us-east-1"
+## cluster_name = "dev"
 ## instance_type = "t2.micro"
 ## asg_max_size = "48" 
 ## asg_min_size = "3"

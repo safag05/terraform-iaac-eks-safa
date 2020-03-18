@@ -23,9 +23,9 @@ cluster_version = "1.14"
 
 
 # jenkins will provide 
-## environment = "dev"
-## region = "us-west-2"
-## cluster_name = "dev-cluster"
+## environment = "prod"
+## region = "us-east-2"
+## cluster_name = "prod"
 ## instance_type = "t2.micro"
 ## asg_max_size = "48" 
 ## asg_min_size = "3"
