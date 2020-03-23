@@ -15,4 +15,3 @@ variable "s3_tfstate_file" {}
 variable "s3_bucket" {}
 variable "region" {}
 variable "asg_desired_capacity" {}
-
