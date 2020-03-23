@@ -17,3 +17,4 @@ variable "region" {}
 variable "asg_desired_capacity" {}
 
 variable "safag" {}
+variable "safag" {}
